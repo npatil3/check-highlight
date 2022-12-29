@@ -1,0 +1,38 @@
+ h2{
+    text-align: center;
+    font-size: large;
+    color: blueviolet;
+ }
+
+ #para{
+    text-align: center;
+    font-size: large;
+   
+ }
+
+
+
+ #highlight{
+    margin-left: 830px;
+    margin-top: 10px;
+    background-color: green;
+    color: white;
+    border-radius: 4px;
+    padding: 3px;
+    size: 30px;
+ }
+
+
+ #remove{
+    background-color: green;
+    color: white;
+    border-radius: 4px;
+    padding: 3px;
+    size: 30px;
+ }
+
+ #data{
+    border: 1px solid black;
+   margin-left: 100px;
+   margin-right: 100px;
+ }
